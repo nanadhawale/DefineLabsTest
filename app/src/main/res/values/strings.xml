@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DefineLabsTest</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">pritampawade6@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="stored_matches">Stored Matches</string>
+    <string name="all_matches">All Matches</string>
+    <string name="demo_match">Demo Match</string>
+    <string name="pune">Pune</string>
+    <string name="india">India</string>
+    <string name="randommatchid1234">randommatchid1234</string>
+    <string name="_9970200361">9970200361</string>
+    <string name="_125778">125778</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">Favorite Matches</string>
+    <string name="na">NA</string>
+    <string name="pritam_pawade">Pritam Pawade</string>
+</resources>
